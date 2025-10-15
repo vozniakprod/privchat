@@ -1,11 +1,3 @@
-html, body {
-      height: 100%;
-      margin: 0;
-      padding: 0;
-      overscroll-behavior: none;
-    }
-
-
 
 body {
     color: white;
@@ -14,8 +6,6 @@ body {
     background-size: cover;
     padding-top: env(safe-area-inset-top);
     padding-bottom: env(safe-area-inset-bottom);
-    position: relative;
-    width: 100%;
 }
 
 .glass-bg {
